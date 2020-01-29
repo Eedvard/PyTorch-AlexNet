@@ -1,0 +1,20 @@
+# PyTorch-AlexNet
+
+This is a very basic implementation of the AlexNet convolutional neural network in PyTorch. The original research paper is available here: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf.
+
+## Network structure
+
+## Regularization techniques
+
+To prevent overfitting and improve the model accuracy following regularization methods were implemented for the model:
+
+1. Batch normalization
+2. Random horizontal flip
+3. Dropout
+4. Changing learning rate
+
+## Dataset
+
+The dataset used to test the network is Fashion MNIST. Because the images are greyscale instead of RGB the network structure had to be altered slightly.
+
+## Results
