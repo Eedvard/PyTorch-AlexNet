@@ -1,6 +1,7 @@
 # PyTorch-AlexNet
 
 This is a very basic implementation of the AlexNet convolutional neural network in PyTorch. The original research paper is available here: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf.
+The repository contains pretrained net.pth file that can be loaded and used to test the network.
 
 ## Network structure
 
