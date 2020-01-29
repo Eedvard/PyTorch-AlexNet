@@ -35,5 +35,6 @@ Accuracy on testing data: 0.89140
 ![Accuracy](img/accuracy.png)
 
 **Figure 2** Training and validation losses during the training process
+
 ![Loss](img/loss.png)
 
