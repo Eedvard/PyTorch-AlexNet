@@ -1,6 +1,8 @@
 fashion-mnist/
 .ipynb_checkpoints/
 FMNIST_data/
-graphs/
+
 tb_graphs/
+.idea/
+venv/
 
