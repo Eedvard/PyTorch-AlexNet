@@ -20,3 +20,10 @@ To prevent overfitting and improve the model accuracy following regularization m
 The dataset used to test the network is Fashion MNIST. Because the images are greyscale instead of RGB the network structure had to be altered slightly.
 
 ## Results
+
+**Figure 1** Training and validation accuracies during the training process
+![Accuracy](https://github.com/Eedvard/PyTorch-AlexNet/tree/master/img/accuracy.png)
+
+**Figure 2** Training and validation losses during the training process
+![Loss](https://github.com/Eedvard/PyTorch-AlexNet/tree/master/img/loss.png)
+
